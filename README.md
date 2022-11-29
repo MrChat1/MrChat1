@@ -10,7 +10,7 @@
 
 Гайд по селф боту в Discord [здесь](https://github.com/MrChat1/self-guide)
 
-Telegram проекты 
+# Telegram проекты 
 
 [Мой телеграм канал](https://t.me/mr4atofficial)
 
