@@ -9,3 +9,8 @@
 [Сайт бота](https://rp-protect.tk/)
 
 Гайд по селф боту в Discord [здесь](https://github.com/MrChat1/self-guide)
+
+Telegram проекты 
+
+[Мой телеграм канал](https://t.me/mr4atofficial)
+
