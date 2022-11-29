@@ -14,3 +14,7 @@
 
 [Мой телеграм канал](https://t.me/mr4atofficial)
 
+# Связь со мной
+
+[Telegram](https://t.me/Mr4at)
+
