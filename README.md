@@ -2,7 +2,10 @@
 
 # Discord проекты 
 
-Сервер для общения [RestPlace](https://discord.gg/restplace)
+Сервер для общения 
+[RestPlace](https://discord.gg/restplace)
+
+[Сайт сервера](https://discord.com/servers/restplace-skyplace-598155494321946625)
 
 Бот для защиты серверов от краша RP Protect 
 
