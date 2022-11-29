@@ -21,3 +21,5 @@
 [Telegram](https://t.me/Mr4at)
 
 [Steam](https://steamcommunity.com/profiles/76561198931142984)
+
+[Reddit](https://www.reddit.com/user/MrChat1)
