@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-# Тест
+# Discord проекты 
+
+Сервер для общения [RestPlace](https://discord.gg/restplace)
+
+
