@@ -16,5 +16,8 @@
 
 # Связь со мной
 
+[Discord]( https://discordapp.com/users/701866992164143154/)
+
 [Telegram](https://t.me/Mr4at)
 
+[Steam](https://steamcommunity.com/profiles/76561198931142984)
