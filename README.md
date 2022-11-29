@@ -25,3 +25,5 @@
 [Reddit](https://www.reddit.com/user/MrChat1)
 
 [Twitch](https://www.twitch.tv/mr4at)
+
+[Tik Tok](https://www.tiktok.com/@mr4at)
