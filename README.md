@@ -1,5 +1,9 @@
 ### Привет, меня зовут Mr4at 👋
 
+[![MrChat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrChat1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,js,ps)](https://artembay.tk)
+
 # Discord проекты 
 
 Сервер для общения 
@@ -31,7 +35,3 @@
 [Twitch](https://www.twitch.tv/mr4at)
 
 [Tik Tok](https://www.tiktok.com/@mr4at)
-
-[![MrChat1's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrChat1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Skills](https://skillicons.dev/icons?i=py,html,js,ps)](https://artembay.tk)
