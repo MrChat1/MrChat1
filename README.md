@@ -4,8 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,js,ps)](https://artembay.tk)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr4at&theme=tokyonight&show_icons=true&layout=compact)
-
 # Discord проекты 
 
 Сервер для общения 
