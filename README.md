@@ -4,6 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,js,ps)](https://artembay.tk)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MrChat1&theme=tokyonight&show_icons=true)  
+
 # Discord проекты 
 
 Сервер для общения 
